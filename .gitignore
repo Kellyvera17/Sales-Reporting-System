@@ -1,0 +1,53 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.cache
+/.cargo
+/.cisco
+/.codeium
+/.config
+/.dotnet
+/.gitconfig
+/.lesshst
+/.m2
+/.nx
+/.rustup
+/.ssh
+/.swt
+/.viminfo
+/.VirtualBox
+/.vscode
+/amazon
+/AppData
+/cargo-installG3ngYh
+/Contacts
+/Downloads
+/Favorites
+/hellokelly.c
+/hellokelly.exe
+/ITSC 2214
+/Links
+/NTUSER.DAT
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.0.regtrans-ms
+/NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.1.regtrans-ms
+/NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.2.regtrans-ms
+/NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.blf
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini
+/OneDrive
+/project.db
+/projectcompiler
+/Saved Games
+/scoop
+/Searches
+/setup_log.txt
+/source
+/Sti_Trace.log
+/submission-2024-05-21-22-58-10.zip
+/VeraKelly.py
+/VirtualBox VMs
