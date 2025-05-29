@@ -1,0 +1,16 @@
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.csproj.AssemblyReference.cache
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.csproj.ResolveComReference.cache
+C:\Users\kdch1\source\repos\HW10\obj\Debug\MainWindow.g.cs
+C:\Users\kdch1\source\repos\HW10\obj\Debug\App.g.cs
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10_MarkupCompile.cache
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10_MarkupCompile.lref
+C:\Users\kdch1\source\repos\HW10\bin\Debug\HW10.exe.config
+C:\Users\kdch1\source\repos\HW10\bin\Debug\HW10.exe
+C:\Users\kdch1\source\repos\HW10\bin\Debug\HW10.pdb
+C:\Users\kdch1\source\repos\HW10\obj\Debug\MainWindow.baml
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.g.resources
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.Properties.Resources.resources
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.csproj.GenerateResource.cache
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.csproj.CoreCompileInputs.cache
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.exe
+C:\Users\kdch1\source\repos\HW10\obj\Debug\HW10.pdb
